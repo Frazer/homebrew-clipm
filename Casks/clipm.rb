@@ -1,6 +1,6 @@
 cask "clipm" do
-  version "1.0.5"
-  sha256 "2fbf27ec72abaf2620b78caf51d6db447ca0ad2ed78c20b70293a6d49f4db188"
+  version "1.0.6"
+  sha256 "331fafd3fb9b3a044463307c6946ad5fb07ae88a2982c4b7276163bf0ba8ea1b"
 
   url "https://github.com/Frazer/clipM/releases/download/v#{version}/clipM-#{version}.dmg"
   name "clip'M"
